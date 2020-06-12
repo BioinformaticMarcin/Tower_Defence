@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (bio_szkielet_01_win.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  airboat.cpp
+  Bullet.cpp
+  cube.cpp
+  Hero.cpp
+  lodepng.cpp
+  main_file.cpp
+e:\grafika\wer1\main_file.cpp(152): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(162): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(184): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(199): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(401): warning C4305: "argument": obcięcie z "double" do "GLclampf"
+e:\grafika\wer1\main_file.cpp(421): warning C4305: "+=": obcięcie z "double" do "float"
+e:\grafika\wer1\main_file.cpp(425): warning C4305: "-=": obcięcie z "double" do "float"
+e:\grafika\wer1\main_file.cpp(542): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(543): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(547): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(548): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(549): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(550): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+e:\grafika\wer1\main_file.cpp(552): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+e:\grafika\wer1\main_file.cpp(598): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\grafika\wer1\main_file.cpp(616): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\grafika\wer1\main_file.cpp(630): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\grafika\wer1\main_file.cpp(645): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  model.cpp
+  objloader.cpp
+e:\grafika\wer1\objloader.cpp(99): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  e:\grafika\wer1\objloader.cpp(99): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+  shader.cpp
+  shaderprogram.cpp
+  sphere.cpp
+  teapot.cpp
+  tiny_obj_loader.cc
+  torus.cpp
+  Tower.cpp
+e:\grafika\wer1\tower.cpp(36): warning C4305: "-=": obcięcie z "double" do "float"
+  vboindexer.cpp
+  Generowanie kodu...
+  bio_szkielet_01_win.vcxproj -> E:\GRAFIKA\Wer1\Debug\Tower_Defence.exe

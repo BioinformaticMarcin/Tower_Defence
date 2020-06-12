@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bio_szkielet_01_win", "bio_szkielet_01_win.vcxproj", "{7288C82C-3F3E-4501-8878-A310FCA284FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B390B653-ECA2-46B2-BFE8-D2A6D73663C8}"
+	ProjectSection(SolutionItems) = preProject
+		glad\src\glad.c = glad\src\glad.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Debug|x64.ActiveCfg = Debug|x64
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Debug|x64.Build.0 = Debug|x64
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Debug|x86.Build.0 = Debug|Win32
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Release|x64.ActiveCfg = Release|x64
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Release|x64.Build.0 = Release|x64
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Release|x86.ActiveCfg = Release|Win32
+		{7288C82C-3F3E-4501-8878-A310FCA284FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F1DB69-65FD-4B28-A71D-12DE03393EB1}
+	EndGlobalSection
+EndGlobal
